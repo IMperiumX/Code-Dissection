@@ -1,6 +1,6 @@
-# CodeReadingJournal
+# Code Dissection
 
-Welcome to the CodeReadingJournal! This repository is a collection of documented code-reading experiences from various open-source projects. The goal is to provide insights and understanding into the internals of different tools, libraries, and frameworks.
+Welcome to the Code Dissection! This repository is a collection of documented code-reading experiences from various open-source projects. The goal is to provide insights and understanding into the internals of different tools, libraries, and frameworks.
 
 ## Purpose
 
