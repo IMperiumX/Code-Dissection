@@ -8,9 +8,58 @@ Welcome to the Code Dissection! This repository is a collection of documented co
 - **Share:** Provide valuable insights to the community.
 - **Contribute:** Encourage collaboration and contributions from others.
 
-## Structure
+## File Structure
+
+Each project directory should contain:
+
+- `README.md`: An overview of the project and its purpose.
+- `architecture-diagram.png` (optional): Diagrams to visualize the architecture.
+- `key-components.md`: Detailed explanation of key modules, functions, or classes.
+- `interesting-patterns.md`: Design patterns, algorithms, or techniques that stand out.
+- `personal-insights.md` (optional): Your thoughts, learnings, and any questions you had while reading.
 
 The repository is organized by categories such as web frameworks, libraries, and tools. Each category contains subdirectories for individual projects.
+
+code-dissection/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── web-frameworks/
+│   ├── Django/
+│   │   ├── README.md
+│   │   ├── architecture-diagram.png
+│   │   ├── key-components.md
+│   │   ├── interesting-patterns.md
+│   │   └── personal-insights.md
+│   ├── Flask/
+│   │   ├── README.md
+│   │   ├── architecture-diagram.png
+│   │   ├── key-components.md
+│   │   ├── interesting-patterns.md
+│   │   └── personal-insights.md
+│   └── ...
+├── libraries/
+│   ├── Requests/
+│   │   ├── README.md
+│   │   ├── architecture-diagram.png
+│   │   ├── key-components.md
+│   │   ├── interesting-patterns.md
+│   │   └── personal-insights.md
+│   └── ...
+├── tools/
+│   ├── Docker/
+│   │   ├── README.md
+│   │   ├── architecture-diagram.png
+│   │   ├── key-components.md
+│   │   ├── interesting-patterns.md
+│   │   └── personal-insights.md
+│   └── ...
+└── resources/
+    ├── books.md
+    ├── articles.md
+    ├── courses.md
+    └── tools.md
 
 ## How to Use
 
@@ -32,4 +81,3 @@ We welcome contributions from the community! Please read the [CONTRIBUTING.md](.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
