@@ -20,6 +20,7 @@ Each project directory should contain:
 
 The repository is organized by categories such as web frameworks, libraries, and tools. Each category contains subdirectories for individual projects.
 
+```shell
 code-dissection/
 │
 ├── README.md
@@ -60,6 +61,7 @@ code-dissection/
     ├── articles.md
     ├── courses.md
     └── tools.md
+```
 
 ## How to Use
 
